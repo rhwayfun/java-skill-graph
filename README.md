@@ -5,16 +5,16 @@
 
 ## 协作平台
 
-* 在线协作平台（密码需要加微信确定参与领取）：[ProcessOn](http://www.processon.com/team/invite/59e96291e4b08b9e917eb388/pqOKGvSu)
+* 在线协作平台（密码需要加微信确定参与领取）：[http://www.processon.com](http://www.processon.com/team/invite/59e96291e4b08b9e917eb388/pqOKGvSu)
 * Github：[https://github.com/rhwayfun/java-skill-graph](https://github.com/rhwayfun/java-skill-graph)
-* 博客：[rhwayfun专栏](http://blog.csdn.net/u011116672)
+* 博客：[http://blog.csdn.net/u011116672](http://blog.csdn.net/u011116672)
 
 ## 参与方式
 
 * 创建issue，标明ProcessOn账号，加微信（ZCB2012001）确认参与
 * 在ProcessOn编辑不同模块的图谱
 
-## 目录
+## 目录简介
 本图谱目前涵盖以下内容：
 ``` 
 └── 计算机基础
@@ -37,4 +37,12 @@
 
 ```
 
+## 技能图谱
+目前第一版把全部内容都放在一个文件了，后面为了管理和维护方便，考虑按模块拆出来，一个模块一个文件。欢迎加入。
+
+**[v1.0](graph.md)**
+
+## License
+
+采用[Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0)协议进行许可。
 
