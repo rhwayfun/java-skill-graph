@@ -80,7 +80,7 @@ git merge upstream/master
 | 005 | [分布式系统](./source/distributed-system.md) |  编辑中    | [HoldDie](https://github.com/HoldDie) |  |
 | 006 | [Java编程](./source/java-programming.md) |  编辑中    |  |  |
 | 007 | [JVM虚拟机](./source/jvm.md) |  编辑中    |  |  |
-| 007 | [Linux操作系统](./source/linux.md) |  编辑中    |  |  |
+| 008 | [Linux操作系统](./source/linux.md) |  编辑中    |  |  |
 
 
 
