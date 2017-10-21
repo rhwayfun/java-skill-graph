@@ -13,6 +13,7 @@
 
 * 创建issue，标明ProcessOn账号，加微信（ZCB2012001）确认参与
 * 在ProcessOn编辑不同模块的图谱
+* 在issues添加你的Github ID
 
 ## 参与协作
 
@@ -34,14 +35,18 @@ git fetch upstream
 git merge upstream/master
 ```
 
-3.添加之前参与模块的图谱的撰写，每个模块的名字已事先确定好。
+3.添加之前参与模块的图谱的撰写，每个模块的名字已事先确定好
 
-4.如果模块的图谱已经绘制完毕，添加到`source`目录下对应的文件
+4.如果模块的图谱已经绘制完毕，先把生成外链，，修改到`source`目录下对应的文件的外链
+
+5.提交到Github后，在自己仓库下提个Pull Request，我这边审核后合并到主仓库
 
 ## 目录简介
 
 本图谱目前涵盖以下内容：
+
 ``` 
+
 └── 计算机基础
 
 └── 算法与数据结构
@@ -62,10 +67,29 @@ git merge upstream/master
 
 ```
 
+## 内容统计
+
+|      | 标题                                       | 状态   | 作者                                       | 审核                                       |
+| ---- | ---------------------------------------- | ---- | ---------------------------------------- | ---------------------------------------- |
+| 001 | [计算机基础](./source/computer-basics.md) |  编辑中    |   |  |
+| 002 | [算法与数据结构](./source/algorithm-data-structure.md) |  编辑中    |  |  |
+| 003 | [大数据](./source/bigdata.md) |  编辑中    |  |  |
+| 004 | [设计模式](./source/design-patterns.md) |  编辑中    | [CloudPai](https://github.com/CloudPai) |  |
+| 005 | [分布式系统](./source/distributed-system.md) |  编辑中    | [HoldDie](https://github.com/HoldDie) |  |
+| 006 | [Java编程](./source/java-programming.md) |  编辑中    |  |  |
+| 007 | [JVM虚拟机](./source/jvm.md) |  编辑中    |  |  |
+| 007 | [Linux操作系统](./source/linux.md) |  编辑中    |  |  |
+
+
+
 ## 技能图谱
 目前第一版把全部内容都放在一个文件了，后面为了管理和维护方便，考虑按模块拆出来，一个模块一个文件。欢迎加入。
 
-**[v1.0](graph.md)**
+**[v1.0.0](graph.md)**
+
+## 更多内容
+更全更牛逼的技能图谱，等你来完善O(∩_∩)O哈哈~
+持续更新中。。。
 
 ## License
 
