@@ -73,14 +73,14 @@ git merge upstream/master
 
 |      | 标题                                       | 状态   | 作者                                       | 审核                                       |
 | ---- | ---------------------------------------- | ---- | ---------------------------------------- | ---------------------------------------- |
-| 001 | [计算机基础](./source/computer-basics.md) |  编辑中    |   |  |
-| 002 | [算法与数据结构](./source/algorithm-data-structure.md) |  编辑中    |  |  |
-| 003 | [大数据](./source/bigdata.md) |  编辑中    |  |  |
+| 001 | [计算机基础](./source/computer-basics.md) |  完善中    |  [rhwayfun](https://github.com/rhwayfun) |  |
+| 002 | [算法与数据结构](./source/algorithm-data-structure.md) |  待认领    |  |  |
+| 003 | [大数据](./source/bigdata.md) |  待认领    |  |  |
 | 004 | [设计模式](./source/design-patterns.md) |  编辑中    | [CloudPai](https://github.com/CloudPai) |  |
-| 005 | [分布式系统](./source/distributed-system.md) |  编辑中    | [HoldDie](https://github.com/HoldDie) |  |
-| 006 | [Java编程](./source/java-programming.md) |  编辑中    |  |  |
-| 007 | [JVM虚拟机](./source/jvm.md) |  编辑中    |  |  |
-| 008 | [Linux操作系统](./source/linux.md) |  编辑中    |  |  |
+| 005 | [分布式系统](./source/distributed-system.md) |  完善中    | [HoldDie](https://github.com/HoldDie) |  |
+| 006 | [Java编程](./source/java-programming.md) |  待认领    |  |  |
+| 007 | [JVM虚拟机](./source/jvm.md) |  待认领    |  |  |
+| 008 | [Linux操作系统](./source/linux.md) |  待认领    |  |  |
 
 
 
