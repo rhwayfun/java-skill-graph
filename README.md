@@ -5,6 +5,16 @@
 
 > 目标：根据图谱给出的学习方向逐步提升自己，一步步走向专家级程序员
 
+## 好文推荐
+> [如何在三年内成长为一名技术专家](http://ifeve.com/%E3%80%8A%E9%98%BF%E9%87%8C%E6%84%9F%E6%82%9F%E3%80%8B%E5%A6%82%E4%BD%95%E5%9C%A8%E4%B8%89%E5%B9%B4%E5%86%85%E6%88%90%E9%95%BF%E4%B8%BA%E4%B8%80%E5%90%8D%E6%8A%80%E6%9C%AF%E4%B8%93%E5%AE%B6/)
+> 
+> [实战解析—论三年内快速成长为一名技术专家](http://ifeve.com/%E5%AE%9E%E6%88%98%E8%A7%A3%E6%9E%90-%E8%AE%BA%E4%B8%89%E5%B9%B4%E5%86%85%E5%BF%AB%E9%80%9F%E6%88%90%E9%95%BF%E4%B8%BA%E4%B8%80%E5%90%8D%E6%8A%80%E6%9C%AF%E4%B8%93%E5%AE%B6/)
+
+## 专家程序员的基本要求
+
+* **技术能力**：扎实的基础能力，在技术上要有技术亮点，用过的框架要知道其技术原理，能**独立**解决各种技术问题，具备分布式系统的开发经验，比较强的实战能力
+* **项目经验**：能架构和负责多个系统，并规划系统的未来能力，在某个领域达到专家水平，可以是某个业务领域，也可以是某个技术领域
+
 ## 协作平台
 
 * 在线协作平台（密码需要加微信确定参与领取）：[http://www.processon.com](http://www.processon.com/team/invite/59e96291e4b08b9e917eb388/pqOKGvSu)
@@ -19,7 +29,7 @@
 
 ## 参与协作
 
-1.到源码仓库（https://github.com/rhwayfun/java-skill-graph）点击`Fork`
+1.到源码仓库`https://github.com/rhwayfun/java-skill-graph`，点击`Fork`
 
 2.如果之前已经 fork 过，请确保你的本地版本库是最新的，如果不是，请马上进行同步
 
@@ -35,6 +45,9 @@ git fetch upstream
 
 ## 合并到本地仓库
 git merge upstream/master
+
+## 及时更新最新改动
+git pull --rebase
 ```
 
 3.添加之前参与模块的图谱的撰写，每个模块的名字已事先确定好
@@ -67,6 +80,8 @@ git merge upstream/master
 
 └── 职业生涯
 
+└── 学习方法与心态
+
 ```
 
 ## 内容统计
@@ -81,6 +96,7 @@ git merge upstream/master
 | 006 | [Java编程](./source/java-programming.md) |  待认领    |  |  |
 | 007 | [JVM虚拟机](./source/jvm.md) |  待认领    |  |  |
 | 008 | [Linux操作系统](./source/linux.md) |  待认领    |  |  |
+| 009 | [学习方法与心态](./source/study-method-mentality.md) |  编辑中    | [rhwayfun](https://github.com/rhwayfun) |  |
 
 
 
