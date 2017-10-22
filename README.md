@@ -93,7 +93,7 @@ git pull --rebase
 | 003 | [大数据](./source/bigdata.md) |  待认领    |  |  |
 | 004 | [设计模式](./source/design-patterns.md) |  编辑中    | [CloudPai](https://github.com/CloudPai) |  |
 | 005 | [分布式系统](./source/distributed-system.md) |  完善中    | [HoldDie](https://github.com/HoldDie) |  |
-| 006 | [Java编程](./source/java-programming.md) |  待认领    |  |  |
+| 006 | [Java编程](./source/java-programming.md) |  编辑中    | [bryancrash](https://github.com/bryancrash) |  |
 | 007 | [JVM虚拟机](./source/jvm.md) |  待认领    |  |  |
 | 008 | [Linux操作系统](./source/linux.md) |  待认领    |  |  |
 | 009 | [学习方法与心态](./source/study-method-mentality.md) |  编辑中    | [rhwayfun](https://github.com/rhwayfun) |  |
